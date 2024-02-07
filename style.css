@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(236, 217, 195);
+   
+}
+img{
+    width: 420px;
+    height: auto;
+   border-radius: 8px;
+   
+
+    
+}
+main{
+    background-color:rgba(244, 244, 242, 0.897) ;
+    width: 479px;
+    height: 1370px;
+    border-radius: 5px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+
+section{
+    display: block;
+    line-height: 3;
+    word-spacing: 180px;
+}
+h2{
+ padding-left: 5%;   
+}
+.preparation{
+    width: 420px;
+    height: 150px;
+    border-radius: 10px;
+    text-indent: 10px;
+    
+}
+
+
+
